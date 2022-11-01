@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+#eksctl delete cluster simple-jwt-api  --region=us-east-2
+#173272682523
+#aws ssm delete-parameter --name JWT_SECRET
 """
 A simple app to create a JWT token.
 """
